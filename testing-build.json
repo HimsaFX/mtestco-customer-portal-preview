@@ -1,0 +1,14 @@
+{
+  "applicationSource": "60e978586dc693e337b1cdc1661d74ddaf2f17f7",
+  "verifiedBuild": "81cc80be9f4af27391b690490627ebaec18b9dba",
+  "verificationRun": 34239642562,
+  "staticPublicationRun": 34240650317,
+  "testingOnly": true,
+  "productionDeployment": false,
+  "views": {
+    "authenticated": {"path": "/mtestco-customer-portal-preview/", "project": "zwgnrlvxvthdsdkeuimn", "jsSha256": "e826d5a76d3dd7b9d201afee9b2d0191757c0a35e2d267e020cef9b15af2883d"},
+    "sample": {"path": "/mtestco-customer-portal-preview/demo/", "databaseConnection": false, "jsSha256": "f3dfee0a2934caf540c9d192932d7b99b9fd90ca2c72594a7d650c1fcd4582b9"}
+  },
+  "cssSha256": "e39b34b6b200042c431075fb555f6b0874a66fdbc743bb88f4386a8648e4a23b",
+  "previousShellCommit": "ce247d18ce5afe4c3d55171dc882b7ef8c4532a4"
+}
